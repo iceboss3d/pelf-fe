@@ -26,7 +26,7 @@ if (!user) {
 }
 $(".alert").hide();
 
-const apiUrl = "http://localhost:8000/api/v1/";
+const apiUrl = "https://pelf-api.herokuapp.com/api/v1/";
 
 const urlParams = new URLSearchParams(window.location.search);
 
