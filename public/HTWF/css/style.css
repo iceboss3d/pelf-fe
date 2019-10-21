@@ -1,0 +1,21 @@
+a.para {
+  text-decoration-line: underline;
+}
+.alert {
+  width: 100%;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+}
+.alert-danger {
+  background-color: red;
+  color: white;
+}
+.alert-success {
+  background-color: green;
+  color: white;
+}
+.alert-warning {
+  background-color: orange;
+  color: white;
+}
